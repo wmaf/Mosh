@@ -22,8 +22,8 @@ Create notes for each section. Upload them along with the code you write as you 
 
 Intro:
 1) Getting Started
-   3- Anatomy of a Java Program
-   Create a text file in your JavaFundementals project called “java-terms-of-art.txt” within your “notes” folder
+   ~~3- Anatomy of a Java Program~~
+   ~~Create a text file in your JavaFundementals project called “java-terms-of-art.txt” within your “notes” folder~~
    Store the following terms in your text file
    Define the terms: method, class, function, field, variable
    Define the terms in relation to each other. ie a method is a function, defined within an object…a function is…
