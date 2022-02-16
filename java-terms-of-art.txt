@@ -1,1 +1,2 @@
 Java executes code as follows: Source code (*,java)>> Java Compiler >> Byte Code (*.class)
+JRE Java Runtime Environment is platform independent and contains the Java Virtual Machine. Convert process (Byte Code >> JVM >> Native code)
