@@ -1,0 +1,1 @@
+Java executes code as follows: Source code (*,java)>> Java Compiler >> Byte Code (*.class)
