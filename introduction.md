@@ -3,15 +3,15 @@ All videos: Drive (must be logged into CareerDevs email)  >>>   **_https://drive
 
 Before you start:
 
-Create a repository that will store all the code you create as you follow along with Mosh and create projects from this curriculum.
+~~Complete >> Create a repository that will store all the code you create as you follow along with Mosh and create projects from this curriculum.~~
 
 Suggested name: JavaFundementals
 
 Within your repo you will create a Java IntelliJ project. At the root of this project you will store your notes. You can create a master notes sheet or break it down into folders/directories. Whatever style you choose, be consistent.
-You must create a text file in your JavaFundementals project called “java-terms-of-art.txt” within your “notes” folder
+~~You must create a text file in your JavaFundementals project called “java-terms-of-art.txt” within your “notes” folder~~
 Priority
 
-Each section has a different level of imporgti tance to us as an all around great developer
+Each section has a different level of importance to us as an all around great developer
 Each section will be colored to reflect the level of importance
 
 Highest priority
