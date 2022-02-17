@@ -2,7 +2,16 @@ Java executes code as follows: Source code (*,java)>> Java Compiler >> Byte Code
 JRE Java Runtime Environment is platform independent and contains the Java Virtual Machine. Convert process (Byte Code >> JVM >> Native code)
 Define:
     Method:
+    A method is a block of code which only runs when it is called.
+    You can pass data, known as parameters, into a method.
+    Methods are used to perform certain actions, and they are also known as functions.
+    Why use methods? To reuse code: define the code once, and use
+    it many times.
+
     Class:
+    A class in Java is a logical template to create objects that share common properties and methods.
+    Hence, all objects in a given class will have the same methods or properties.
+
     Function:
     Field:
     Variable:
