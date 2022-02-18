@@ -13,5 +13,27 @@ Define:
     Hence, all objects in a given class will have the same methods or properties.
 
     Function:
+    A function is a method that does have a return value. To define a method to be a function,
+    set its return type to be the type of the value it is returning.
+
     Field:
+    At its most basic, a Java field is a variable. This means that it represents a value, such
+    as a numerical value or a text.
+
+    Note:
+    Java fields and methods are alike in that they exist within classes and have a defined type.
+    If a Java method doesn't return any values, its type is set to void. The most important distinction
+    between the two is that Java fields can hold information, while Java methods perform a task.
+    On its own, a Java field only describes the type of information stored.
+    Java fields and methods can also be declared with other modifiers. The type
+    is always required when declaring a field (or void if a method does not return a value).
+    You may have noticed the keyword public in the method declaration code, which tells Java
+    that the method can be accessed from anywhere in the program. When declaring fields,
+    we can also add the modifier that restricts (or opens up) access to the field. Take a look
+    at the following code, which uses comments to explain each of the modifier types for the fields:
+
     Variable:
+    A variable provides us with named storage that our programs can manipulate. Each variable in Java
+    has a specific type, which determines the size and layout of the variable's memory;
+    the range of values that can be stored within that memory; and the set of operations
+    that can be applied to the variable. You must declare all variables before they can be used
